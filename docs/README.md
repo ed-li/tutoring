@@ -3,9 +3,9 @@
     * Accelerated development of critical thinking skills
     * Test taking strategies
 * General tutoring in all high-school-level subjects, including AP courses
+    * Personalized learning
     * Homework and essay help
-    * Exam preparation
-    * AP exam
+    * Test preparation, including AP exams
 * College-level physics and mathematics tutoring
     * Fundamentals in calculus, differential equations, linear algebra, and analysis
 * Graduate-level mathematics tutoring
@@ -14,7 +14,7 @@
 # What makes me qualified?
 * Combined score of 2340 (equivalent to 1560) on the SAT
     * 800 math, 760 verbal, 780 writing
-* 5s in 13 different AP subjects
+* Exam grades of 5 in 13 different AP subjects
     * Calculus AB and BC, Statistics, and Computer Science
     * Physics 1/2 and C
     * Biology, Chemistry, and Environmental Science
